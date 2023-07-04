@@ -127,6 +127,15 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
+.project h2 a {
+  color: #333333;
+  text-decoration: none;
+}
+
+.project h2 a:hover {
+  text-decoration: underline;
+}
 </style>
 </body>
 </html>
