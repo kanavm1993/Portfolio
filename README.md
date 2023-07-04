@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  Portfolio Website
-
-
-  ___________________
+  Portfolio Website ___________________
 </head>
 <body>
   <h1>
