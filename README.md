@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-  Portfolio Website ___________________
+<head> 
+  ___________________
+  Portfolio Website
+  ___________________
 </head>
 <body>
   <h1>
@@ -28,13 +30,13 @@
 <h1>Projects</h1>
   
   <h2>Type 2 Diabetes Readmission</h2>
-  <p>Measuring the impact of HBA1C treatment(treatment of Type 2 diabetes) on the patient's readmission rates</p>
+  <p>Measuring the impact of HBA1C treatment(treatment of Type 2 diabetes) on the patient's readmission rates.</p>
   
   <h2>Heart Risk Diseases</h2>
-  <p>Predicting the risk of heart disease using Machine Learning algorithms(K-Nearest Neighbours,Naive Bayes,Support Vector Machine)</p>
+  <p>Predicting the risk of heart disease using Machine Learning algorithms(K-Nearest Neighbours,Naive Bayes,Support Vector Machine).</p>
   
   <h2>Linear Regression Study</h2>
-  <p>Linear regression models are tested for their predictability/accuracy under special circumstances</p>
+  <p>Linear regression models are tested for their predictability/accuracy under special circumstances.</p>
 </body>
 </html>
 
