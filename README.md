@@ -4,7 +4,24 @@
   
            Portfolio Website
 ______________________________________
-
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 20px;
+    }
+    
+    h1, h2 {
+      color: #333;
+    }
+    
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+  </style>
+  
 </head>
 <body>
   <h1>
