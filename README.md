@@ -26,6 +26,17 @@ Portfolio Repository
     <li>Software Implementation Intern at Apex Analytics (Jul 2022 - Sep 2022)</li>
     <li>Client Exelixis, supporting Pharmacovigilance activities (Nov 2022 - Apr 2023)</li>
   </ul>
+
+<h1>Projects</h1>
+  
+  <h2>Project A</h2>
+  <p>Description of Project A.</p>
+  
+  <h2>Project B</h2>
+  <p>Description of Project B.</p>
+  
+  <h2>Project C</h2>
+  <p>Description of Project C.</p>
 </body>
 </html>
 
