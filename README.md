@@ -1,6 +1,3 @@
-# Portfolio
-Portfolio Repository
-
 <!DOCTYPE html>
 <html>
 <head>
