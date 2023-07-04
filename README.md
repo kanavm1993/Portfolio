@@ -5,7 +5,6 @@
 </head>
 <body>
   <h1>
-    
     About Me</h1>
   
   <h2>Education</h2>
@@ -28,14 +27,14 @@
 
 <h1>Projects</h1>
   
-  <h2>Project A</h2>
-  <p>Description of Project A.</p>
+  <h2>Type 2 Diabetes Readmission</h2>
+  <p>Measuring the impact of HBA1C treatment(treatment of Type 2 diabetes) on the patient's readmission rates</p>
   
-  <h2>Project B</h2>
-  <p>Description of Project B.</p>
+  <h2>Heart Risk Diseases</h2>
+  <p>Predicting the risk of heart disease using Machine Learning algorithms(K-Nearest Neighbours,Naive Bayes,Support Vector Machine)</p>
   
-  <h2>Project C</h2>
-  <p>Description of Project C.</p>
+  <h2>Linear Regression Study</h2>
+  <p>Linear regression models are tested for their predictability/accuracy under special circumstances</p>
 </body>
 </html>
 
